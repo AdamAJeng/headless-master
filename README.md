@@ -12,7 +12,7 @@ Documentation is available at [rdoc.info](http://rdoc.info/projects/leonid-shevt
 
 **Note: Headless will NOT hide most applications on OS X. [Here is a detailed explanation](https://github.com/leonid-shevtsov/headless/issues/31#issuecomment-8933108)**
 
-## Installation
+## Installation.
 
 On Debian/Ubuntu:
 
